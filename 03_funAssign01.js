@@ -1,3 +1,4 @@
+
 console.log("              ------- step 1 ---------");
 function red(){
     console.log("Hello js");
@@ -39,7 +40,8 @@ console.log("              ------- step 4 ---------");
  }
  addThreeValues(10.23,600,40)
  addThreeValues("Hello","Good","Morning")
- 
+  
+
 
 
 
