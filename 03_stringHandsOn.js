@@ -1,5 +1,6 @@
 
 
+
 function stringHandsOn(){
     var givenString = "   Hey you are doing good, keep it up     ";
     console.log(`(1) Given String is: ${givenString}`);
